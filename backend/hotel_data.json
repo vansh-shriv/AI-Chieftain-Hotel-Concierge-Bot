@@ -1,0 +1,19 @@
+{
+  "hotel_name": "Hotel Serenity",
+  "wifi_password": "Serenity@123",
+  "room_service_hours": "7AM to 10PM",
+  "spa_hours": "10AM to 8PM",
+  "rooms": {
+    "207": {
+      "guest_name": "Mr. Aryan",
+      "language": "English",
+      "preferences": ["extra towels", "late checkout"]
+    },
+    "305": {
+      "guest_name": "Ms. Priya",
+      "language": "Hindi",
+      "preferences": ["vegan food", "morning yoga"]
+    }
+  },
+  "services": ["spa", "room cleaning", "airport pickup", "restaurant booking", "laundry"]
+}
